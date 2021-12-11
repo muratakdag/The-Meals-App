@@ -1,1 +1,8 @@
 # The-Meals-App
+
+   I build a meals app, an app where we can view some recipes, favorite some recipes and also filter recipes and for this in this application, we'll need some navigation.
+We'll have our header there with some title in the middle and with a menu button here on the left which allows us to open a side drawer to which I'll come back in a second and at the bottom of this page here, we'll have tabs, we'll have two tabs - one for all meals, all recipes and one for our favorites which we'll of course be able to add in this app.Now on that all page, we'll have a grid of categories, so basically something like Italian, exotic, maybe Turkish food, so basically different food categories and when we tap one of these categories, we'll be taken on a second screen where we'll then have a back button at the top to go back with another title, the category title and on that screen, we'll then have the recipes.
+   
+   So there, we'll have multiple such cards with let's say an image, a title, some extra information about the recipe like how long it takes to create it and so on, so when we click the back button, we're of course taken back here. Now that's one part and that's all where we're on the all tab down there, so when this is the active tab. Now we're not done in this flow though, of course we can tap a single recipe and that will take us to yet another page here where we can view the details about this recipe.
+
+  Not only because that would be very cumbersome to write but also because I wantthese beautiful animations, these transitions between screens and that's something I thankfully can add in a relatively easy way.
